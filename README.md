@@ -1,6 +1,5 @@
 # Menace Modding Guide
 
-This guide is a fork of [lethal.wiki](https://lethal.wiki/).
 
 ## Developer Guide
 
